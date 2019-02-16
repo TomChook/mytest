@@ -100,6 +100,7 @@ public class indexManager {
 	@Test
 	public void testGit() {
 		System.out.println("git")
+		System.out.println("svn")
 	}
 
 }
