@@ -95,6 +95,11 @@ public class indexManager {
             System.out.println("图书描述: " + doc.get("bookDesc"));
         }
     }
-
+	
+	// 测试git
+	@Test
+	public void testGit() {
+		System.out.println("git")
+	}
 
 }
